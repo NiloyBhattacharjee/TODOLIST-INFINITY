@@ -1,0 +1,25 @@
+body{
+    background-image:url("https://www.iconspng.com/image/68428/light-green-background-with-dots") ;
+}
+
+table, th, td {
+    border: 2px solid white;
+    color:rgb(255, 255, 255);
+    font-weight: 500;
+    
+  }
+.ts{
+    color:white;
+    font-weight: 300;
+}
+.typing,li{
+    color:rgb(10, 9, 9);
+    font-weight: 500;
+}
+a{
+    color:white;
+    font-weight: 500;
+}
+box{
+    font-weight: 500;
+}
